@@ -7,3 +7,5 @@ Algoritma ve Swing anlatımlarında katılımcılara anlaşılabilirlik sağlanm
 
 **Eğitim & Anlatım:** Berat, @koply <br>
 **Moderatör:** Kutay, @kingofgolem
+
+> Kaynak kodlarının en optimize halde olmadığının farkındayız. Eğitim için kullanılan proje olduğu için sağ kulağın sol el ile tutulduğu yerlerin olması oldukça normal. Bunu gözeterek issue açmaya özen gösterelim.
